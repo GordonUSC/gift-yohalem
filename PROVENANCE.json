@@ -1,0 +1,18 @@
+{
+ "img/hero.jpg": {
+  "tool": "higgsfield",
+  "prompt": "inked fantasy story map with branching roads (job 0ed16f4f) gpt_image_2_5"
+ },
+ "snd/quill.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "quill on parchment (flow Zsme1gDAAwoH9cLbT2KJ)"
+ },
+ "snd/page.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "storybook page turn (flow Zsme1gDAAwoH9cLbT2KJ)"
+ },
+ "snd/bed.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "harp and celesta storybook theme, eleven_music_v2_5 (flow Zsme1gDAAwoH9cLbT2KJ)"
+ }
+}
